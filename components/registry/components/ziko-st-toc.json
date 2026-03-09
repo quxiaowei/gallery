@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "title": "Streamlit Table Of Contents",
+  "author": {
+    "github": "zakarialaoui10",
+    "displayName": "zakaria elalaoui"
+  },
+  "links": {
+    "github": "https://github.com/zikojs/ziko-st-toc",
+    "pypi": "ziko-st-toc",
+    "demo": "https://ziko-st-toc.streamlit.app/",
+    "docs": null
+  },
+  "media": {
+    "image": "https://raw.githubusercontent.com/zikojs/ziko-st-toc/refs/heads/main/assets/demo.gif"
+  },
+  "install": {
+    "pip": "pip install ziko-st-toc"
+  },
+  "governance": {
+    "enabled": true,
+    "notes": null
+  },
+  "categories": ["Widgets", "Page navigation"]
+}
